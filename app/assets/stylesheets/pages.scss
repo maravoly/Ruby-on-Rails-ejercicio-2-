@@ -1,0 +1,64 @@
+// Place all the styles related to the tv_shows controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+h2 {
+
+    width: 700px;
+    margin-top: 30px;
+    margin-left: 30px;
+    padding-bottom: 100px;
+    text-align: center;
+    padding-top: 100px;
+    font-size:70px ;
+    color: white;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    border: none;
+    text-align: center;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background: rgba(211,16,101,1);
+    -webkit-box-shadow: 0 0 9px 2px rgba(0,0,0,0.5) inset, 0 4px 9px 13px rgba(0,0,0,0.2) ;
+    box-shadow: 0 0 9px 2px rgba(0,0,0,0.5) inset, 0 4px 9px 13px rgba(0,0,0,0.2) ;
+    -webkit-transition: color 200ms cubic-bezier(0.68, -0.55, 0.265, 1.55) 10ms;
+    -moz-transition: color 200ms cubic-bezier(0.68, -0.55, 0.265, 1.55) 10ms;
+    -o-transition: color 200ms cubic-bezier(0.68, -0.55, 0.265, 1.55) 10ms;
+    transition: color 200ms cubic-bezier(0.68, -0.55, 0.265, 1.55) 10ms;
+}
+
+h3 {
+    width: 670px;
+    margin-left: 30px;
+    background-color:#428580;
+    text-align: center;
+    color: white;
+    display: inline-block;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    position: absolute;
+    cursor: pointer;
+    padding: 20px;
+    overflow: scroll;
+    border: 5px solid rgba(255,252,252,1);
+    font: normal 30px/1 "Times New Roman", Times, serif;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    background: #054B5C;
+    -webkit-box-shadow: 6px 6px 1px 0 rgba(0,0,0,0.7) ;
+    box-shadow: 6px 6px 1px 0 rgba(0,0,0,0.7) ;
+    text-shadow: 5px 5px 0 rgba(0,0,0,0.7) ;
+}
+
+p{
+    width: 500px;
+    text-align: center;
+    color:#054B5C;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+
