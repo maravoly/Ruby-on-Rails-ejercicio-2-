@@ -22,7 +22,9 @@ h1 {
         width: 400px;
         height:70px;
         padding-top: 20px;
-        margin-left: 30px;
+        margin-left:170px;
+        margin-top: 50px;
+        position: absolute;
 }
 
 ul{
@@ -30,8 +32,17 @@ ul{
     font-size: 20px;
     width: 400px;
     height:70px;
-    padding-top: 20px;
-    margin-left: 60px;
-    color:#097481;
+    padding-top: 130px;
+    margin-left: 220px;
+    margin-top: 50px;
+    color:white;
+    position: absolute;
 }
 
+.imagen{
+    width:300px;
+    position: fixed;
+    background-attachment: fixed;
+    margin: 30px;
+
+}

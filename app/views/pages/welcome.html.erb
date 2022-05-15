@@ -1,11 +1,13 @@
 
 <h2>¡WELCOME!!</h2>
-
+<%= image_tag("images_ruby.png", alt: "images_ruby") %><br>
 <h3>Hello! World</h3>
 
-
 <% @pages.each do |pages| %>
-  <p><%= pages[:mensaje] %></p><br>
+  <p><%= pages[:mensaje] %></p>
 <% end %>
+
+
+
 
 
